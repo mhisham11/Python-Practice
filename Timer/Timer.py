@@ -44,7 +44,7 @@ while not exit_flag == "":
 
     #playing sound 3 times
     for x in range(3):
-        playsound(r"D:\Files\Documents\CodeFolder\Manual\Timer\timer_done.mp3",block=False)
+        playsound("timer_done.mp3",block=False)
         time.sleep(2)
     
 
