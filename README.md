@@ -1,2 +1,2 @@
-Repo containing python projects that I make as part of learning python.
+Repo containing python projects/microprojects that I make as part of learning python.
 
